@@ -7,8 +7,6 @@ Instead of reaching out to the PlayOnline servers and getting the PML files from
 You can see how it works by checking out the video here:  
 https://www.youtube.com/watch?v=SATgkzxw_ss
 
---
-
 ## Setup
 
 ### Linux (+ Steam Deck)
